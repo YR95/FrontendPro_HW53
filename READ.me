@@ -1,0 +1,14 @@
+1) in terminal inside the project: npm init
+2) to run in node phase update your package.json section scripts:     "node":
+"node
+src/index.js"
+3) in terminal inside set local webpack: npm i -D webpack
+3) in terminal inside set local webpack-cli: npm i -D webpack-cli
+4) create empty dist folder
+5) create file: webpack.config.js and insert code from official spec
+6) update your package.json section scripts: "build": "webpack --mode
+production"
+7) execute in terminal: npm run build
+( remove if you have: type=module from index html and in package json)
+8) update your index.html with : <script src="dist/bundle.js" defer></script>
+9) rebuild :npm run build
