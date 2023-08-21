@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Yuliia",
+    "age": 28,
+    "mail": "gfhgfhg@gmail.com",
+    "country": "Ukraine",
+    "company": "WorkUa",
+    "birthday": "12.06.1995"
+  },
+  {
+    "id": 2,
+    "name": "Olga",
+    "age": 33,
+    "mail": "jfhgfhg@gmail.com",
+    "country": "UK",
+    "company": "EPAM",
+    "birthday": "22.06.1987"
+  },
+  {
+    "id": 3,
+    "name": "Semen",
+    "age": 23,
+    "mail": "jfhgfhg@gmail.com",
+    "country": "Poland",
+    "company": "Murka",
+    "birthday": "27.06.2000"
+  }
+]
